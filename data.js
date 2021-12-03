@@ -812,7 +812,7 @@ var APP_DATA = {
       "infoHotspots": [
         {
           "yaw": 1.1274901360083316,
-          "pitch": -0.15160496571763638,
+          "pitch": 0.15,
           "title": "<h1> &ensp; Painting 1 </h1>",
           "text": "<h2> <a href onclick='pintura1()'> <img src='img/pintura1-big.jpg' class='center'> </a><br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
         },
